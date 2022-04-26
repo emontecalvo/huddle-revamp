@@ -1,0 +1,34 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Treee.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Jello.cs" Line="176" Column="27" />
+      <File FileName="Assets/Scripts/Treee.cs" Line="28" Column="29" />
+      <File FileName="Assets/Scripts/JelloMgr.cs" />
+      <File FileName="Assets/Scripts/TreeMgr.cs" />
+      <File FileName="Assets/Scripts/GamePhaseMgr.cs" />
+      <File FileName="Assets/Scripts/Fire.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="huddle-revamp" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Assets" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Treee.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3786be2d-363a-471c-a4b4-157ad6d2bbaf" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
